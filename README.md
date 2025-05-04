@@ -90,17 +90,3 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 
 
 
-Bio text pulled from the dataset
-A close button to exit
-👀 Scroll Animations
-Cards fade in as they enter the viewport using the Intersection Observer API, adding a dynamic feel as users scroll.
-
-👨‍💻 Author
-Ameem Rahman — Front-End Developer
-“Designed with passion for the DC Universe.”
-
-📜 License
-This project is intended for educational and personal use only.
-All character names, images, and trademarks belong to DC Comics.
-
-Made with 💙 by Ameem Rahman 🦇🦸‍♀️🦸‍♂️
