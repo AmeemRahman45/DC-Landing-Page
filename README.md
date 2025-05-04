@@ -62,11 +62,9 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 <h1><u>👨‍💻 Author</u></h1>
 <br>
 <p>
-  Ameem Rahman** — Front-End Developer  
+  Ameem Rahman — Front-End Developer  
   <br>
   Designed with passion for the DC Universe.
-  <br>
-  [LinkedIn](#) • [GitHub](#)
 </p>
 <br>
 <h1><u>📜 License</u></h1>
