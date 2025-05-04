@@ -70,8 +70,8 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 <h1><u>📜 License</u></h1>
 <br>
 <p>
-  This project is intended for educational and personal use only. All character names, images, and trademarks belong to **DC Comics.
-  <br>
+  This project is intended for educational and personal use only. All character names, images, and trademarks belong to DC Comics.
+  <br><br>
   <u><b>Made with 💙 by Ameem Rahman🦇🦸‍♀️🦸‍♂️</u>
 </p>
 
