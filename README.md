@@ -1,6 +1,8 @@
 <h1><u>💥 DC Heroes Landing Page</u></h1>
 <br>
+<p>
 An interactive, fan-made web experience that celebrates the heroes (and villains) of the DC Universe. Explore 35+ iconic characters with sleek animations, immersive bios, and sound-enhanced interactions — all built using HTML, CSS, and JavaScript.
+</p>
 <br>
 <h1><u>✨ Features</u></h1>
 <br>
@@ -28,6 +30,29 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
     <li>DC.com – Official hero images for authenticity</li>
   </ul>
 </div>
+<br>
+<h1><u>🧩 How It Works</u></h1>
+<br>
+<h1><u>🦸 Hero Cards</u></h1>
+<br>
+<p>
+  Hero data is stored in JavaScript and dynamically rendered into the page.
+</p>
+<div>
+   <ul>
+    <li>Hover: plays a quick sound effect</li>
+    <li>Click: opens a detailed biography modal</li>
+   </ul>
+</div>
+<br>
+<div>
+  <h1><u>🪟 Modal Window</u></h1>
+ <ul>
+    <li>Each card opens a popup that includes:</li>
+    <li>Animate.css – For smooth card entry animations</li>
+    <li>DC.com – Official hero images for authenticity</li>
+  </ul>
+</div>
 
 
 
@@ -40,14 +65,9 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 
 
 
-🧩 How It Works
-🦸 Hero Cards
-Hero data is stored in JavaScript and dynamically rendered into the page.
 
-Hover: plays a quick sound effect
-Click: opens a detailed biography modal
-🪟 Modal Window
-Each card opens a popup that includes:
+
+
 
 Hero name
 Bio text pulled from the dataset
