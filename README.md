@@ -1,6 +1,7 @@
-💥 DC Heroes Landing Page
+<h1><u>💥 DC Heroes Landing Page</u></h1>
+<br>
 An interactive, fan-made web experience that celebrates the heroes (and villains) of the DC Universe. Explore 35+ iconic characters with sleek animations, immersive bios, and sound-enhanced interactions — all built using HTML, CSS, and JavaScript.
-
+<br>
 ✨ Features
 ⚡ Hero landing section with animated intro
 🎴 Interactive cards for every character
