@@ -57,7 +57,7 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 <br>
 <h1><u>👀 Scroll Animations</u></h1>
 <br>
-<p>Cards fade in as they enter the viewport using the **Intersection Observer API**, adding a dynamic feel as users scroll.</p>
+<p>Cards fade in as they enter the viewport using the Intersection Observer API, adding a dynamic feel as users scroll.</p>
 <br>
 <h1><u>👨‍💻 Author</u></h1>
 <br>
