@@ -32,8 +32,7 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 </div>
 <br>
 <h1><u>🧩 How It Works</u></h1>
-<br>
-<h1><u>🦸 Hero Cards</u></h1>
+<h2><u>🦸 Hero Cards</u></h2>
 <br>
 <p>
   Hero data is stored in JavaScript and dynamically rendered into the page.
