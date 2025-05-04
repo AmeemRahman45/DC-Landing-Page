@@ -2,21 +2,44 @@
 <br>
 An interactive, fan-made web experience that celebrates the heroes (and villains) of the DC Universe. Explore 35+ iconic characters with sleek animations, immersive bios, and sound-enhanced interactions — all built using HTML, CSS, and JavaScript.
 <br>
-✨ Features
-⚡ Hero landing section with animated intro
-🎴 Interactive cards for every character
-📜 Clickable popups with detailed biographies
-🔊 Audio feedback on card hover
-🔄 Scroll-based reveal animations
-🎨 Sleek, dark-themed modern design
-📱 Responsive on mobile, tablet, and desktop
-🛠️ Technologies Used
-HTML5 – Clean, semantic structure
-CSS3 – Flexbox, animations, and responsive styling
-JavaScript (Vanilla) – Dynamic DOM rendering, modals, and audio logic
-Google Fonts – Montserrat for clean, readable type
-Animate.css – For smooth card entry animations
-DC.com – Official hero images for authenticity
+<h1><u>✨ Features</u></h1>
+<br>
+<div>
+  <ul>
+    <li>⚡ Hero landing section with animated intro</li>
+    <li>🎴 Interactive cards for every character</li>
+    <li>📜 Clickable popups with detailed biographies</li>
+    <li>🔊 Audio feedback on card hover</li>
+    <li>🔄 Scroll-based reveal animations</li>
+    <li>🎨 Sleek, dark-themed modern design</li>
+    <li>📱 Responsive on mobile, tablet, and desktop</li>
+  </ul>
+</div>
+<br>
+<h1><u>🛠️ Technologies Used</u></h1>
+<br>
+<div>
+  <ul>
+    <li>HTML5 – Clean, semantic structure</li>
+    <li>CSS3 – Flexbox, animations, and responsive styling</li>
+    <li>JavaScript (Vanilla) – Dynamic DOM rendering, modals, and audio logic</li>
+    <li>Google Fonts – Montserrat for clean, readable type</li>
+    <li>Animate.css – For smooth card entry animations</li>
+    <li>DC.com – Official hero images for authenticity</li>
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 🧩 How It Works
 🦸 Hero Cards
 Hero data is stored in JavaScript and dynamically rendered into the page.
