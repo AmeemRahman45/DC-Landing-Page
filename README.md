@@ -32,7 +32,7 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 </div>
 <br>
 <h1><u>🧩 How It Works</u></h1>
-<h2>🦸 Hero Cards</h2>
+<h2><u>🦸 Hero Cards</u></h2>
 <br>
 <p>
   Hero data is stored in JavaScript and dynamically rendered into the page.
@@ -44,14 +44,38 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
    </ul>
 </div>
 <br>
+<h1><u>🪟 Modal Window</u></h1>
+<br>
 <div>
-  <h1><u>🪟 Modal Window</u></h1>
+  <p>Each card opens a popup that includes:</p>
  <ul>
-    <li>Each card opens a popup that includes:</li>
-    <li>Animate.css – For smooth card entry animations</li>
-    <li>DC.com – Official hero images for authenticity</li>
+    <li>Hero name</li>
+    <li>Bio text pulled from the dataset</li>
+   <li>A close button to exit  </li>
   </ul>
 </div>
+<br>
+<h1><u>👀 Scroll Animations</u></h1>
+<br>
+<p>Cards fade in as they enter the viewport using the **Intersection Observer API**, adding a dynamic feel as users scroll.</p>
+<br>
+<h1><u>👨‍💻 Author</u></h1>
+<br>
+<p>
+  Ameem Rahman** — Front-End Developer  
+  <br>
+  Designed with passion for the DC Universe.
+  <br>
+  [LinkedIn](#) • [GitHub](#)
+</p>
+<br>
+<h1><u>📜 License</u></h1>
+<br>
+<p>
+  This project is intended for educational and personal use only. All character names, images, and trademarks belong to **DC Comics.
+  <br>
+  <u><b>Made with 💙 by Ameem Rahman🦇🦸‍♀️🦸‍♂️</u>
+</p>
 
 
 
@@ -66,9 +90,6 @@ An interactive, fan-made web experience that celebrates the heroes (and villains
 
 
 
-
-
-Hero name
 Bio text pulled from the dataset
 A close button to exit
 👀 Scroll Animations
